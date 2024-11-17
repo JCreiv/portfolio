@@ -3,63 +3,52 @@
   "pageLayout": "two-column",
   "basics": {
     "name": "Javier Castillo",
-    "label": "Senior Full Stack Developer",
+    "label": "Junior Sysadmin, Pentester",
     "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
-    "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
-    "theme": "red",
+    "email": "javier.castillo240473@gmail.com",
+    "url": "https://javico.neocities.org/",
+    "summary": "Administrador de sistemas y especialista en ciberseguridad con experiencia en gestión de infraestructuras informáticas y protección de redes. Idiomas español nativo e inglés avanzado.",
+    "theme": "blue",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
+      "address": "Granada",
+      "city": "Granada",
       "countryCode": "CN",
-      "region": "China"
+      "region": "España"
     },
     "profiles": [
-      {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
-      },
+
       {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "username": "JCreiv",
+        "url": "https://github.com/JCreiv"
       }
     ],
     "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
+      "mint": "",
+      "police": ""
     }
   },
   "images": {
-    "intro": "Photography is the art of light, and images are the contours of memory.",
+    "intro": "",
     "list": [
       {
-        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
+        "image": "",
         "alt": "Sunset in Nanchang",
         "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
+        "image": "",
         "alt": "My Cat",
         "desc": "A Ragdoll cat who stayed for a year. She's a girl."
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
+        "image": "",
         "alt": "Emoji",
         "desc": "True, dude"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
+        "image": "",
         "alt": "Cat Kernel Crashed",
         "desc": "Cat Kernel Crashed"
       }
@@ -67,161 +56,65 @@
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
-      "url": "",
-      "area": "Regular Student",
+      "institution": "IES Marques de Comares, Córdoba",
+      "url": "https://blogsaverroes.juntadeandalucia.es/iesmarquesdecomares/",
+      "area": "Bachillerato TECN.",
       "studyType": "Full-time student",
-      "startDate": "2021-9-01",
-      "endDate": null
+      "startDate": "2020",
+      "endDate": "2022"
+    },
+    {
+      "institution": "CES S. Ramón y Cajal, Granada",
+      "url": "https://www.cesramonycajal.com/",
+      "area": "ASIR",
+      "studyType": "Full-time student",
+      "startDate": "2022",
+      "endDate": "2024"
+    },
+    {
+      "institution": "Colegio Nuestra Señora de las Mercedes Granada",
+      "url": "https://fp.mercedarias.es/titulacion/especializacion-en-ciberseguridad-en-entornos-de-las-tecnologias-de-la-informacion/",
+      "area": "Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información ",
+      "studyType": "Full-time student",
+      "startDate": "2024",
+      "endDate": "2025"
     }
   ],
   "certificates": [
-    {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
-      "url": "",
-      "issuer": "Myself"
-    },
-    {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
-      "url": "",
-      "issuer": "Tencent Cloud"
-    }
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
-      "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "name": "Hospital San Juan de Dios",
+      "position": "SysAdmin",
+      "location_type": "Presencial",
+      "location": "Granada",
+      "url": "https://www.sjdgranada.es/hospital-san-juan-de-dios",
+      "startDate": "2024-02-11",
+      "endDate": "2024-06-03",
+      "summary": "Técnico informático con experiencia práctica en redes y administración de sistemas informáticos.",
       "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
+        "Solucionar el error de el servidor MDT de la empresa"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Configuración y reparación de sistemas y montaje de redes. Revisión de incidencias y sistemas."
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Implementar el HIDS Wazuh en la empresa"
       ],
       "skills": {
         "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
-        "React": "mdi:react",
+        "Python": "simple-icons:python",
+        "Linux": "simple-icons:linux",
+        "Windows": "simple-icons:windows",
+        "Docker": "simple-icons:docker",
+        "Kubernetes": "simple-icons:kubernetes",
         "SQL": "simple-icons:mysql",
         "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
-      }
-    },
-    {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
-      "highlights": [
-        "Completed 95% of project content."
-      ],
-      "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
-      ],
-      "achievements": [
-        "Ensured smooth project execution."
-      ],
-      "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        "GitHub": "mdi:github"
       }
     }
   ],
   "skills": [
-    {
-      "name": "HTML",
-      "icon": "simple-icons:html5",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "icon": "ri:css3-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "icon": "simple-icons:javascript",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "icon": "ri:nodejs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
     {
       "name": "SQL",
       "icon": "simple-icons:mysql",
@@ -234,13 +127,42 @@
       ]
     },
     {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
+      "name": "Python",
+      "icon": "simple-icons:python",
       "level": "Intermediate",
       "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
+        "Programming",
+        "Backend",
+        "Web Development",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": [
+        "Operating Systems",
+        "Backend",
+        "Server Management"
+      ]
+    },
+    {
+      "name": "Windows",
+      "icon": "simple-icons:windows",
+      "level": "Intermediate",
+      "keywords": [
+        "Operating Systems",
+        "Backend",
+        "Server Management"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "icon": "simple-icons:kubernetes",
+      "level": "Intermediate",
+      "keywords": [
+        "Container Orchestration",
         "Backend"
       ]
     },
@@ -266,96 +188,12 @@
       ]
     },
     {
-      "name": "Next.js",
-      "icon": "ri:nextjs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "icon": "mdi:react",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
       "name": "Docker",
       "icon": "mdi:docker",
       "level": "Intermediate",
       "keywords": [
         "Virtual Environments",
         "Backend"
-      ]
-    },
-    {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
-    },
-    {
-      "name": "Vite",
-      "icon": "simple-icons:vite",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
-    },
-    {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
       ]
     },
     {
@@ -379,43 +217,6 @@
       ]
     },
     {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
       "name": "Shell",
       "icon": "simple-icons:shell",
       "level": "Intermediate",
@@ -433,102 +234,68 @@
         "Scripting",
         "Automation"
       ]
-    },
-    {
-      "name": "Vercel",
-      "icon": "simple-icons:vercel",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Netlify",
-      "icon": "simple-icons:netlify",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
-      "level": "Expert",
-      "keywords": [
-        "Serverless",
-        "Edge Computing"
-      ]
     }
   ],
   "languages": [
     {
-      "language": "Chinese",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
       "language": "English",
-      "fluency": "Intermediate"
+      "fluency": "Avanzado"
     }
   ],
   "interests": [
     {
       "name": "Technology",
       "keywords": [
-        "AI",
+        "Hacking",
         "Blockchain"
       ]
     }
   ],
   "references": [
     {
-      "name": "MiraHikari",
+      "name": "JCreiv",
       "reference": "Reference…"
     }
   ],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
+      "name": "Documentación DVWA",
       "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "url": "https://www.stationx.net/wp-content/uploads/2024/06/DVWA.png",
         "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+        "dark": "https://www.stationx.net/wp-content/uploads/2024/06/DVWA.png"
       },
       "isActive": true,
       "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
+        "🛠️ Entorno controlado: Simula vulnerabilidades reales sin comprometer entornos de producción.",
+        "🔐 Niveles de dificultad: Cada vulnerabilidad tiene niveles de dificultad ajustables (low, medium, hard, impossible).",
+        "📚 Educativa: Ideal para aprender sobre exploits, soluciones y prácticas seguras.",
+        "🌐 Compatible: Funciona en entornos Windows, Linux o macOS con servidores web como Apache y bases de datos MySQL."
       ],
-      "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
+      "url": "https://github.com/JCreiv/DVWA",
+      "github": "https://github.com/JCreiv/DVWA"
     },
     {
-      "name": "Riddle Town Hunt 2",
+      "name": "Documentación Bandit",
       "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
-        "position": "background"
+        "url": "https://user-images.githubusercontent.com/53615807/101657981-94eb1e80-3a55-11eb-91c5-55e1a1c93545.png",
+        "position": "container"
       },
       "isActive": true,
       "description": "Public decryption activity in the form of Puzzle Hunt.",
       "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
+        "🛡️ Desafíos progresivos: 34 niveles con incrementos de dificultad para aprender diferentes aspectos de seguridad.",
+        "🧠 Educativo: Ideal para principiantes que quieren practicar hacking ético y administración de sistemas.",
+        "💻 Sistema de terminal: Los retos se resuelven utilizando comandos de terminal en un entorno de máquina virtual.",
+        "🔑 Exploración de vulnerabilidades: Fomenta la práctica de técnicas como la inyección de comandos, manipulación de permisos y escalada de privilegios."
       ],
-      "url": "https://rth2.gcxstudio.cn/"
+      "url": "https://github.com/JCreiv/Bandit",
+      "github": "https://github.com/JCreiv/Bandit"
     }
   ]
 }
