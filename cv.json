@@ -99,7 +99,7 @@
         "Configuración y reparación de sistemas y montaje de redes. Revisión de incidencias y sistemas."
       ],
       "achievements": [
-        "Implementar el HIDS Wazuh en la empresa"
+        "Implementar el HIDS Wazuh en la empresa."
       ],
       "skills": {
         "PHP": "simple-icons:php",
@@ -263,14 +263,14 @@
   ],
   "projects": [
     {
-      "name": "Documentación DVWA",
+      "name": "DVWA",
       "image": {
         "url": "https://www.stationx.net/wp-content/uploads/2024/06/DVWA.png",
         "position": "container",
         "dark": "https://www.stationx.net/wp-content/uploads/2024/06/DVWA.png"
       },
       "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "description": "Documentación de la maquina DVWA.",
       "highlights": [
         "🛠️ Entorno controlado: Simula vulnerabilidades reales sin comprometer entornos de producción.",
         "🔐 Niveles de dificultad: Cada vulnerabilidad tiene niveles de dificultad ajustables (low, medium, hard, impossible).",
@@ -281,13 +281,13 @@
       "github": "https://github.com/JCreiv/DVWA"
     },
     {
-      "name": "Documentación Bandit",
+      "name": "Bandit",
       "image": {
         "url": "https://user-images.githubusercontent.com/53615807/101657981-94eb1e80-3a55-11eb-91c5-55e1a1c93545.png",
         "position": "container"
       },
       "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "description": "Documentación de los wargames Bandit.",
       "highlights": [
         "🛡️ Desafíos progresivos: 34 niveles con incrementos de dificultad para aprender diferentes aspectos de seguridad.",
         "🧠 Educativo: Ideal para principiantes que quieren practicar hacking ético y administración de sistemas.",
