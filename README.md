@@ -22,7 +22,7 @@ Thanks for antfu's cool animations.
 ## 🚀 Getting Started
 
 ### 0. One-click to deploy on Vercel
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MiraHikari/portfolio&project-name=portfolio&repository-name=portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JCreiv/portfolio&project-name=portfolio&repository-name=portfolio)
 
 Modify the `cv.json` file to create your own printable Portfolio/CV.
 
