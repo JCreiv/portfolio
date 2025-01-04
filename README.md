@@ -74,3 +74,5 @@ Change the data-theme of `cv.json` and choose one of the colour themes defined i
 This project is [MIT](./LICENSE) licensed.
 
 CV JSON schema from [**jsonresume.org**](https://jsonresume.org/schema/)
+
+
