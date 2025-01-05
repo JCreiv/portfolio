@@ -22,6 +22,12 @@
         "icon": "mdi:github",
         "username": "JCreiv",
         "url": "https://github.com/JCreiv"
+      },
+      {
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "username": "Javier Castillo",
+        "url": "https://www.linkedin.com/in/javier-castillo-47a42a306"
       }
     ],
     "beian": {
