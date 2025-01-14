@@ -28,6 +28,12 @@
         "icon": "mdi:linkedin",
         "username": "Javier Castillo",
         "url": "https://www.linkedin.com/in/javier-castillo-47a42a306"
+      },
+      {
+        "network": "Blogg",
+        "icon": "mdi:rss-box",
+        "username": "https://jcreiv.github.io/",
+        "url": "https://jcreiv.github.io/"
       }
     ],
     "beian": {
