@@ -7,11 +7,11 @@
     "image": "/avatar.png",
     "email": "javier.castillo240473@gmail.com",
     "url": "https://javico.neocities.org/",
-    "summary": "Administrador de sistemas y especialista en ciberseguridad con experiencia en gestión de infraestructuras informáticas y protección de redes. Idiomas español nativo e inglés avanzado.",
+    "summary": "Administrador de sistemas y especialista en ciberseguridad con experiencia en gestión de infraestructuras informáticas y protección de redes. Idiomas español nativo e inglés avanzado (B2).",
     "theme": "blue",
     "location": {
-      "address": "Granada",
-      "city": "Granada",
+      "address": "Calle torneo",
+      "city": "Sevilla",
       "countryCode": "CN",
       "region": "España"
     },
@@ -293,21 +293,21 @@
       "github": "https://github.com/JCreiv/DVWA"
     },
     {
-      "name": "Bandit",
+      "name": "Autobspwm",
       "image": {
-        "url": "https://user-images.githubusercontent.com/53615807/101657981-94eb1e80-3a55-11eb-91c5-55e1a1c93545.png",
+        "url": "https://github.com/JCreiv/Autobspwm/raw/master/Wallpapers/archkali.png",
         "position": "container"
       },
       "isActive": true,
-      "description": "Documentación de los wargames Bandit.",
+      "description": "Script automatizado para la personalización del entorno Debian/Ubuntu usando bspwm, kitty y sxhkd",
       "highlights": [
-        "🛡️ Desafíos progresivos: 34 niveles con incrementos de dificultad para aprender diferentes aspectos de seguridad.",
-        "🧠 Educativo: Ideal para principiantes que quieren practicar hacking ético y administración de sistemas.",
-        "💻 Sistema de terminal: Los retos se resuelven utilizando comandos de terminal en un entorno de máquina virtual.",
-        "🔑 Exploración de vulnerabilidades: Fomenta la práctica de técnicas como la inyección de comandos, manipulación de permisos y escalada de privilegios."
+        "🎯 Personalización completa: Automatiza la instalación y configuración de un entorno ligero con bspwm, kitty y sxhkd.",
+        "⚙️ Minimalismo eficiente: Ideal para quienes buscan un entorno de escritorio rápido, simple y altamente configurable.",
+        "🖥️ Terminal moderna: Incluye kitty como emulador de terminal, optimizado para rendimiento y personalización.",
+        "⌨️ Atajos personalizados: Usa sxhkd para gestionar accesos directos de teclado y mejorar la productividad."
       ],
-      "url": "https://github.com/JCreiv/Bandit",
-      "github": "https://github.com/JCreiv/Bandit"
+      "url": "https://github.com/JCreiv/Autobspwm",
+      "github": "https://github.com/JCreiv/Autobspwm"
     }
   ]
 }
